@@ -1,6 +1,4 @@
-# GoMathExecutor 
-
-[![GoDoc][doc-img]][doc] [![Build Status][ci-img]][ci] [![Coverage Status][cov-img]][cov]
+# GoMathExecutor [![GoDoc](https://godoc.org/github.com/neonxp/GoMathExecutor?status.svg)](https://godoc.org/github.com/neonxp/GoMathExecutor) [![Build Status](https://travis-ci.org/neonxp/GoMathExecutor.svg?branch=master)](https://travis-ci.org/neonxp/GoMathExecutor)
 
 Package GoMathExecutor provides simple expression executor.
 
