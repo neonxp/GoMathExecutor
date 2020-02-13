@@ -1,4 +1,6 @@
-# GoMathExecutor [![GoDoc][doc-img]][doc] [![Build Status][ci-img]][ci] [![Coverage Status][cov-img]][cov]
+# GoMathExecutor 
+
+[![GoDoc][doc-img]][doc] [![Build Status][ci-img]][ci] [![Coverage Status][cov-img]][cov]
 
 Package GoMathExecutor provides simple expression executor.
 
